@@ -9,6 +9,6 @@
     "vite": "^4.4.6"
   },
   "dependencies": {
-    "feather": "^0.0.6"
+    "feather": "^0.0.5"
   }
 }
